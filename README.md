@@ -32,7 +32,7 @@ To use these CloudFormation templates, follow these steps:
 
 2. **Navigate to the Template Directory:**
    ```
-   cd aws-cloudformation-templates
+   cd Cloudformation_Templates
    ```
 
 3. **Choose a Template:**
