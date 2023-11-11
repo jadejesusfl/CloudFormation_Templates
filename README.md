@@ -27,7 +27,7 @@ To use these CloudFormation templates, follow these steps:
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/your-username/aws-cloudformation-templates.git
+   git clone https://github.com/jadejesusfl/CloudFormation_Templates.git
    ```
 
 2. **Navigate to the Template Directory:**
