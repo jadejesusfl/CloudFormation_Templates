@@ -32,7 +32,7 @@ To use these CloudFormation templates, follow these steps:
 
 2. **Navigate to the Template Directory:**
    ```
-   cd Cloudformation_Templates
+   cd CloudFormation_Templates
    ```
 
 3. **Choose a Template:**
