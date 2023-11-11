@@ -60,7 +60,7 @@ Please ensure that your contributions align with the project's coding standards 
 
 ## Support
 
-If you encounter any issues or have questions about the templates, feel free to [open an issue](https://github.com/your-username/aws-cloudformation-templates/issues). We welcome feedback and appreciate your contributions to make these templates even more valuable for the community.
+If you encounter any issues or have questions about the templates, feel free to [open an issue](https://github.com/jadejesusfl/CloudFormation_Templates/issues). We welcome feedback and appreciate your contributions to make these templates even more valuable for the community.
 
 Happy CloudFormation scripting!
 Copyright 2023 Jose A. De Jesus
