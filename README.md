@@ -1,8 +1,6 @@
 # CloudFormation_Templates
 Repository of AWS CloudFormation templates
 
-# AWS CloudFormation Templates
-
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 This repository contains a collection of AWS CloudFormation templates publicly licensed under the [Apache License 2.0](LICENSE). These templates are designed to help you deploy and manage AWS resources in a consistent and reproducible way.
