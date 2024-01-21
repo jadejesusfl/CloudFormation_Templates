@@ -64,4 +64,4 @@ If you encounter any issues or have questions about the templates, feel free to 
 
 Happy CloudFormation scripting!
 
-Copyright 2023 Jose A. De Jesus
+Copyright 2023-2024 Jose A. De Jesus
